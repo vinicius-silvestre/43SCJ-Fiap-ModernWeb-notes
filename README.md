@@ -1,6 +1,6 @@
 # 43SCJ-fiap-notes-modern-web
 
-Projeto baseado em outro projeto, com algumas melhorias solicitadas pelo Professor de Modern Web da FIAP, Rafael Nogueira Leme.
+Projeto com algumas melhorias solicitadas pelo Professor de Modern Web da FIAP, Rafael Nogueira Leme - React.
 
 As melhorias solicitadas:
 1. O usuário pode editar uma nota.
